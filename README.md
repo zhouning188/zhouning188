@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zhouning188
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on git
 - 📫 How to reach me ...
 
 <!---
